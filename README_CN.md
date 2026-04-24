@@ -13,9 +13,11 @@
 | 所有物体都是方块。真的。 | 真实 3D 模型，PBR 贴图，自动缩放 |
 
 ### 🎥 视频 Demo
-<video src="https://github.com/user-attachments/assets/81c81729-1a73-4ea2-abef-7f52f36f6d65" controls="controls" muted="muted" width="100%"></video>
 
-*(注：如果视频无法播放，可以查看 [原始文件](./docs/demo.mov))*
+<video src="./docs/demo.mov" controls="controls" muted="muted" width="100%"></video>
+
+> 📹 如果上方播放器无法加载，[点这里直接看视频](./docs/demo.mov)
+
 
 
 
