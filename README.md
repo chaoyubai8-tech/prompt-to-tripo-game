@@ -18,16 +18,17 @@ The result: your "ChatGPT 3D game" looks like a Steam indie title.
 
 ## 🎬 Demo
 
-### Before vs After
-| Before (AI box version) | After (Tripo models) |
-|---|---|
+### ❌ ChatGPT gave me THIS → ✅ tripo-game turned it into THIS
+
+| 😱 Before — 30 seconds of coding | 🤩 After — 1 command + 3 minutes |
+|:---:|:---:|
 | ![before](./docs/before.png) | ![after](./docs/after.png) |
+| Every object is a box. Literally. | Real 3D models with PBR textures, auto-scaled |
 
-> 📸 Replace `docs/before.png` and `docs/after.png` with your screenshots
-
-### Video Demo
+### 🎥 Video Demo
 <!-- Replace the link below once you upload to YouTube/Bilibili -->
 [![Watch the demo](https://img.shields.io/badge/▶_Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com)
+
 
 <p align="center">
   <img src="./assets/before-after/before-after.gif" alt="Before / after" width="680" />

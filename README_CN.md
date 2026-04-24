@@ -4,16 +4,17 @@
 
 ## 🎬 效果展示
 
-### 升级前 vs 升级后
-| 升级前（AI 方块版）| 升级后（Tripo 模型版）|
-|---|---|
+### ❌ ChatGPT 给我的 → ✅ tripo-game 变成的
+
+| 😱 升级前 — AI 写了 30 秒 | 🤩 升级后 — 一条命令 + 3 分钟 |
+|:---:|:---:|
 | ![before](./docs/before.png) | ![after](./docs/after.png) |
+| 所有物体都是方块。真的。 | 真实 3D 模型，PBR 贴图，自动缩放 |
 
-> 📸 截图录好后替换 `docs/before.png` 和 `docs/after.png`
-
-### 视频 Demo
-<!-- 录好视频上传到 YouTube/Bilibili 后，替换下面的链接和封面图 -->
+### 🎥 视频 Demo
+<!-- 录好视频上传到 YouTube/Bilibili 后，替换下面的链接 -->
 [![Watch the demo](https://img.shields.io/badge/▶_Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com)
+
 
 ---
 
