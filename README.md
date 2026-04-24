@@ -1,6 +1,7 @@
-# tripo-game
+# prompt-to-tripo-game
 
-> 🎮 **Upgrade any AI-generated 3D game (GPT-5.5 / Claude / Codex) with real Tripo 3D assets — in one command.**
+> 🎮 **Type a prompt → GPT writes the game → Tripo upgrades every mesh to a real 3D model. One command.**
+
 
 GPT-5.5 & Codex can now build a playable Three.js game from one prompt.
 There's just one problem: **every mesh is a cube**.

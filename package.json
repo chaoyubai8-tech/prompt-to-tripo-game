@@ -1,5 +1,6 @@
 {
-  "name": "tripo-game",
+  "name": "prompt-to-tripo-game",
+
   "version": "0.1.0",
   "description": "🎮 Upgrade AI-generated 3D games (GPT-5.5 / Claude / Codex) with high-quality Tripo 3D assets. One command turns low-poly cubes into production-grade models.",
   "type": "module",

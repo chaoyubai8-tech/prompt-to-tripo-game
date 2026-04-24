@@ -1,6 +1,7 @@
-# tripo-game
+# prompt-to-tripo-game
 
-> 🎮 **让 AI（GPT-5.5 / Claude / Codex）生成的 3D 游戏，一条命令升级成"Steam 独立游戏"级别的画面。**
+> 🎮 **Type a prompt → GPT writes the game → Tripo upgrades every mesh to a real 3D model. One command.**
+
 
 ## 🎬 效果展示
 
